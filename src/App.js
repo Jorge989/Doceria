@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
 import "./styles.css";
-import { useSpring, animated as a, config } from "react-spring";
+import { useSpring, animated as a,  } from "react-spring";
 
 import Stand from "./assets/stand.png";
 function App() {
