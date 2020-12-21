@@ -105,7 +105,7 @@ function App() {
                       sint occaecat cupidatat non proident, sunt in culpa qui
                       officia deserunt mollit anim id est laborum.
                     </p>
-                    <a href="#" className="sessao-bemvindo-btn">
+                    <a href="/#" className="sessao-bemvindo-btn">
                       Leia mais
                     </a>
                   </div>
